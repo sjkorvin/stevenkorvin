@@ -1,6 +1,5 @@
 # My First Post
 
-
 I wasn't into paying Squarespace to maintain a website, so I went with GitHub Pages and Hugo! It seems like it'll work. I already have a personal domain.
 
 I had a very productive day on Friday. I was told that I "looked very relaxed" after completing my tasks that day. I need productive days more often and in order to experience them, I'm going to apply for a job after this summer job with school will be over. Due to my productive day, I found myself able to give up fiction. Fiction makes me feel very sick; however, I've kept consuming fiction because I've been going stir-crazy. Without fiction, I'd just be walking around my apartment all day. Consuming fiction has felt like a better choice than a day filled with pacing.

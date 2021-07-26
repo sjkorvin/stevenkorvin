@@ -1,6 +1,5 @@
 # Things Are Continuing
 
-
 The Community College Innovation Challenge was a very rewarding and tiring experience. Everyone says that it would've been so much easier in person. They talk about "Zoom fatigue." For me, it would've been much more difficult in person. According to the Computer Science, Engineering, and Information Technology department's dean, our team's participation in the competition had created potential partnerships with Bergen Community College. The real focus of the competition was entreneurship. I'm not well-versed in business, but I have a very good friend who is. She'd be glad to potentially one day start a business with me.
 
 I'll be leaving the Electric Vehicle Conversion project for a month to participate in the Quantum Computing Summer School with IBM Quantum. Bergen Community College will be paying for the course's tuition, though I'll be paying $100 that'll be refunded upon completion of the course. I'll be rejoining the Electric Vehicle Conversion project this fall.

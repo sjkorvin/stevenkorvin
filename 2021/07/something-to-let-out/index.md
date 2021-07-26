@@ -1,6 +1,5 @@
 # Something to Let Out
 
-
 This is going to be a no holds barred post. In the past, I had worried about what my family might think regarding my posts about prioritizing my mental health.
 
 I feel so much stress. This is not new. I have been feeling this for a very long time, perhaps, all my life. I'm so fortunate to now have my own apartment. I just wish that I could drive. I don't wish that to have a social status or to hang out with friends. I don't wish it to go to events. I just wish that I wasn't trapped in my apartment.

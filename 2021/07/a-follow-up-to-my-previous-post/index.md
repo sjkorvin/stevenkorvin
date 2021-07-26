@@ -1,6 +1,5 @@
 # A Follow-Up to My Previous Post
 
-
 As I said in my first post, I dislike fiction. It's a story that I don't want 
 to tell, but fiction was pretty much forced on me all my life. I live on my 
 own now! Things are great! Shouldn't I have been able to disregard fiction as soon as I moved in to this apartment? The answer to that is "No." I wasn't able to. When I first moved in here, I had no computer and no smartphone. I was at the library all day. The library was closed on Sundays during the summer, though. It was unbearable to stare at the walls all day.
