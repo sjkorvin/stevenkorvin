@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/skorvin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stevenkorvin.com
+  * I am skorvin (https://keybase.io/skorvin) on keybase.
+  * I have a public key ASAEHRx793Fi31iKkZPyfosRNLtTNPevsfblA-pNAvFGWQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205c6de1973690efa8b6a7be6e5e2537a4b6271adbbac285866cf1d880deb01a360a",
+      "host": "keybase.io",
+      "kid": "0120041d1c7bf77162df588a9193f27e8b1134bb5334f7afb1f6e503ea4d02f146590a",
+      "uid": "dce04e59daefffd1748ac47f60db4419",
+      "username": "skorvin"
+    },
+    "merkle_root": {
+      "ctime": 1627369763,
+      "hash": "ebb87e524820f03c8bab48512137d4690e2e19c4a6d444d0c6f5d386c2067aeefb2b544405bd0307299191d4e07af6853296af7404b149099bdb158fdb3f824c",
+      "hash_meta": "7bdc210a5650c08316c3e063efb2d9e29fbef1c0ef4bcc68f2d62fb51b59e220",
+      "seqno": 20451812
+    },
+    "service": {
+      "entropy": "srQ9YxHmH+2S+8+BLbZck1WW",
+      "hostname": "stevenkorvin.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1627369788,
+  "expire_in": 504576000,
+  "prev": "54a2267593f0bca7519be5981e052a93c62851c0d66fc671f536bc7eee412207",
+  "seqno": 76,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBB0ce/dxYt9YipGT8n6LETS7UzT3r7H25QPqTQLxRlkKp3BheWxvYWTESpcCTMQgVKImdZPwvKdRm+WYHgUqk8YoUcDWb8Zx9Ta8fu5BIgfEIPt7bwawThI0V1KVxb27rfuaCKzkAt8ahdXuOnM94nuiAgHCo3NpZ8RAIOAqNyFOQPe+/UZaDU3oifW6T/lbRamlgUxnFjnYQiNJqhRdbD1/zDFkb/IG17JBlwOBpmeDfPunl27+ywv/DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOUftGMrm0g2a03uqZTFszW1CrF2ABhVZSGoQX85N0uOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skorvin
+
+==================================================================
