@@ -11,9 +11,7 @@ I've been feeling very tired from Quantum Summer School. It hasn't been the mate
 
 The video game repair company that I applied to was interested in talking to me, but ultimately, I couldn't get the job because I wouldn't have had enough work hours for training.
 
-Here is a Reddit post of mine in which I describe how much difficulty I've been having: https://bit.ly/2TGlxUg
-
-You may be cautious of the bit.ly link and you may not like URL shortneners, but I want to see how the link performs.
+Here is a Reddit post of mine in which I describe how much difficulty I've been having: http://stevenkorvin.com/v7EroZ
 
 I was a bit talkative during my COBOL class today. It was because I've been exhausted. Because Bergen Community is rolling out multi-factor authentication,I had explained my previous process of writing the backup codes from the sites that had supported them on business cards and putting them in a wallet. Also, I had maintained a local password manager database using KeePass. It wasn't long before that had failed on me. Now, I keep everything like that in 1Password. 
 
