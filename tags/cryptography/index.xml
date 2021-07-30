@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>infosec - Tag - Steven Korvin</title>
-        <link>https://stevenkorvin.com/tags/infosec/</link>
-        <description>infosec - Tag - Steven Korvin</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 29 Jul 2021 18:54:47 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/tags/infosec/" rel="self" type="application/rss+xml" /><item>
+        <title>cryptography - Tag - Steven Korvin</title>
+        <link>https://stevenkorvin.com/tags/cryptography/</link>
+        <description>cryptography - Tag - Steven Korvin</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 29 Jul 2021 18:54:47 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/tags/cryptography/" rel="self" type="application/rss+xml" /><item>
     <title>I Am Sure Trying</title>
     <link>https://stevenkorvin.com/2021/07/i-am-sure-trying/</link>
     <pubDate>Thu, 29 Jul 2021 18:54:47 -0400</pubDate>
@@ -18,17 +18,6 @@
 <p>You may be cautious of the bit.ly link and you may not like URL shortneners, but I want to see how the link performs.</p>
 <p>I was a bit talkative during my COBOL class today. It was because I&rsquo;ve been exhausted. Because Bergen Community is rolling out multi-factor authentication,I had explained my previous process of writing the backup codes from the sites that had supported them on business cards and putting them in a wallet. Also, I had maintained a local password manager database using KeePass. It wasn&rsquo;t long before that had failed on me. Now, I keep everything like that in 1Password.</p>
 <p>After that, the professor had asked if anybody has used hardware security keys. I showed him my Yubikey 5 NFC and my Google Titan key on my keyring. I then talked about my Trezor T, which I keep in my apartment and the MicroSD card  that I keep in my wallet that has the microcontroller unit&rsquo;s decryption key on it. The professor asked &ldquo;What happens if you lose THAT?&rdquo; I then explained that you wipe the device and you set it up again using your paper backup.  He then said &ldquo;Okay. That makes sense!&rdquo; Cryptography is so awesome. I also talked about how the Trezor T became useful when I had accidentally thrown my keyring in the dumpster last year because of stress.</p>
-]]></description>
-</item><item>
-    <title>Things Are Continuing</title>
-    <link>https://stevenkorvin.com/2021/07/things-are-continuing/</link>
-    <pubDate>Sat, 03 Jul 2021 01:48:15 -0400</pubDate>
-    <author>steven-korvin</author>
-    <guid>https://stevenkorvin.com/2021/07/things-are-continuing/</guid>
-    <description><![CDATA[<p>The Community College Innovation Challenge was a very rewarding and tiring experience. Everyone says that it would&rsquo;ve been so much easier in person. They talk about &ldquo;Zoom fatigue.&rdquo; For me, it would&rsquo;ve been much more difficult in person. According to the Computer Science, Engineering, and Information Technology department&rsquo;s dean, our team&rsquo;s participation in the competition had created potential partnerships with Bergen Community College. The real focus of the competition was entreneurship. I&rsquo;m not well-versed in business, but I have a very good friend who is. She&rsquo;d be glad to potentially one day start a business with me.</p>
-<p>I&rsquo;ll be leaving the Electric Vehicle Conversion project for a month to participate in the Quantum Computing Summer School with IBM Quantum. Bergen Community College will be paying for the course&rsquo;s tuition, though I&rsquo;ll be paying $100 that&rsquo;ll be refunded upon completion of the course. I&rsquo;ll be rejoining the Electric Vehicle Conversion project this fall.</p>
-<p>Last Thursday, the team working on the other project that I participated in last year at Bergen Community, the Ethical Hacking project, presented. They did an excellent job. I&rsquo;ll probably get a chance to be a student intern again next summer. If the project will still be running, then I think that I&rsquo;d like to rejoin it while continuing working on the Electric Vehicle Conversion project. This summer, I had to relax and prepare for the competition.</p>
-<p>Starting on July 6th, I&rsquo;ll be participating in a mini-course provided by Bergen Community College named Introduction to COBOL Programming and System Z. July through mid-August will be busy for me!</p>
 ]]></description>
 </item></channel>
 </rss>
