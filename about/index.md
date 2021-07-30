@@ -5,6 +5,3 @@
 
 #### I hope to soon obtain a doctorate in Computer Engineering, a private pilot certificate, and French citizenship through citizenship by descent. I also hope to eventually move to Vancouver Island and obtain Canadian citizenship.
 
-#### Below are some photographs of my recent school project, the Electric Vehicle Conversion project.
-
-
