@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stevenkorvin.com/privacy/</loc>
+    <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2022-06-26T10:35:10-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/categories/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2022-06-26T10:35:10-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/categories/meta/</loc>
+    <loc>http://localhost:1313/categories/meta/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/post/move-to-anatole-theme/</loc>
+    <loc>http://localhost:1313/post/move-to-anatole-theme/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/tags/site/</loc>
+    <loc>http://localhost:1313/tags/site/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/tags/</loc>
-    <lastmod>2022-06-26T06:04:13-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/categories/bergen-community-college/</loc>
+    <loc>http://localhost:1313/categories/bergen-community-college/</loc>
     <lastmod>2021-07-30T03:13:31-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/categories/electric-vehicle-conversion-project/</loc>
+    <loc>http://localhost:1313/categories/electric-vehicle-conversion-project/</loc>
     <lastmod>2021-07-30T03:13:31-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/post/evc-project-photographs/</loc>
+    <loc>http://localhost:1313/post/evc-project-photographs/</loc>
     <lastmod>2021-07-30T03:13:31-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/tags/progress/</loc>
+    <loc>http://localhost:1313/tags/progress/</loc>
     <lastmod>2021-07-30T03:13:31-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/tags/school/</loc>
+    <loc>http://localhost:1313/tags/school/</loc>
     <lastmod>2021-07-30T03:13:31-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2021-06-06T21:44:49-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>
