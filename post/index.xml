@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Steven Korvin&#39;s Website</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://stevenkorvin.com/post/</link>
     <description>Recent content in Posts on Steven Korvin&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jun 2022 06:04:13 -0400</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 06:04:13 -0400</lastBuildDate><atom:link href="https://stevenkorvin.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Move to Anatole Theme</title>
-      <link>http://localhost:1313/post/move-to-anatole-theme/</link>
+      <link>https://stevenkorvin.com/post/move-to-anatole-theme/</link>
       <pubDate>Sun, 26 Jun 2022 06:04:13 -0400</pubDate>
       
-      <guid>http://localhost:1313/post/move-to-anatole-theme/</guid>
+      <guid>https://stevenkorvin.com/post/move-to-anatole-theme/</guid>
       
         <description>&lt;p&gt;With the uBlogger theme no longer maintained, I have moved this site to the Anatole Hugo theme, which can be found here: &lt;a href=&#34;https://github.com/lxndrblz/anatole&#34;&gt;https://github.com/lxndrblz/anatole&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Credit for this theme goes to all contributors behind its development.&lt;/p&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>EVC Project Photographs</title>
-      <link>http://localhost:1313/post/evc-project-photographs/</link>
+      <link>https://stevenkorvin.com/post/evc-project-photographs/</link>
       <pubDate>Fri, 30 Jul 2021 03:13:31 -0400</pubDate>
       
-      <guid>http://localhost:1313/post/evc-project-photographs/</guid>
+      <guid>https://stevenkorvin.com/post/evc-project-photographs/</guid>
       
         <description>&lt;p&gt;I tried to make photographs of the Electric Vehicle Conversion project look snazzy in the uBlogger Hugo theme. I&amp;rsquo;m just going to direct you to an album in my PixelFed account instead: &lt;a href=&#34;http://link.stevenkorvin.com/PG8kwp&#34;&gt;http://link.stevenkorvin.com/PG8kwp&lt;/a&gt;&lt;/p&gt;
 </description>
