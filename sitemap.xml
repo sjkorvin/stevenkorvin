@@ -2,14 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stevenkorvin.com/privacy/</loc>
-    <lastmod>2022-06-26T10:35:10-04:00</lastmod>
+    <loc>https://stevenkorvin.com/categories/</loc>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/categories/life/</loc>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/tags/personal/</loc>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/post/</loc>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/tags/progress/</loc>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/tags/school/</loc>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
   </url><url>
     <loc>https://stevenkorvin.com/</loc>
-    <lastmod>2022-06-26T10:35:10-04:00</lastmod>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/categories/</loc>
-    <lastmod>2022-06-26T06:04:13-04:00</lastmod>
+    <loc>https://stevenkorvin.com/tags/</loc>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/post/theres-nothing-to-buy/</loc>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/categories/umgc/</loc>
+    <lastmod>2024-09-01T20:22:57-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/privacy/</loc>
+    <lastmod>2022-06-26T10:35:10-04:00</lastmod>
   </url><url>
     <loc>https://stevenkorvin.com/tags/hugo/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
@@ -20,13 +44,7 @@
     <loc>https://stevenkorvin.com/post/move-to-anatole-theme/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://stevenkorvin.com/post/</loc>
-    <lastmod>2022-06-26T06:04:13-04:00</lastmod>
-  </url><url>
     <loc>https://stevenkorvin.com/tags/site/</loc>
-    <lastmod>2022-06-26T06:04:13-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/tags/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
     <loc>https://stevenkorvin.com/contact/</loc>
@@ -39,12 +57,6 @@
     <lastmod>2021-07-30T03:13:31-04:00</lastmod>
   </url><url>
     <loc>https://stevenkorvin.com/post/evc-project-photographs/</loc>
-    <lastmod>2021-07-30T03:13:31-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/tags/progress/</loc>
-    <lastmod>2021-07-30T03:13:31-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/tags/school/</loc>
     <lastmod>2021-07-30T03:13:31-04:00</lastmod>
   </url><url>
     <loc>https://stevenkorvin.com/about/</loc>
