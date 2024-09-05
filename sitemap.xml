@@ -2,29 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stevenkorvin.com/categories/</loc>
-    <lastmod>2024-09-04T20:48:58-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/categories/life/</loc>
-    <lastmod>2024-09-04T20:48:58-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/post/one-day-at-a-time/</loc>
-    <lastmod>2024-09-04T20:48:58-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/tags/personal/</loc>
-    <lastmod>2024-09-04T20:48:58-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/post/</loc>
-    <lastmod>2024-09-04T20:48:58-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/</loc>
-    <lastmod>2024-09-04T20:48:58-04:00</lastmod>
-  </url><url>
-    <loc>https://stevenkorvin.com/tags/</loc>
-    <lastmod>2024-09-04T20:48:58-04:00</lastmod>
-  </url><url>
     <loc>https://stevenkorvin.com/privacy/</loc>
     <lastmod>2022-06-26T10:35:10-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/</loc>
+    <lastmod>2022-06-26T10:35:10-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/categories/</loc>
+    <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
     <loc>https://stevenkorvin.com/tags/hugo/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
@@ -35,7 +20,13 @@
     <loc>https://stevenkorvin.com/post/move-to-anatole-theme/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
+    <loc>https://stevenkorvin.com/post/</loc>
+    <lastmod>2022-06-26T06:04:13-04:00</lastmod>
+  </url><url>
     <loc>https://stevenkorvin.com/tags/site/</loc>
+    <lastmod>2022-06-26T06:04:13-04:00</lastmod>
+  </url><url>
+    <loc>https://stevenkorvin.com/tags/</loc>
     <lastmod>2022-06-26T06:04:13-04:00</lastmod>
   </url><url>
     <loc>https://stevenkorvin.com/contact/</loc>
